@@ -1,0 +1,29 @@
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\bin\Debug\Optical store.exe.config
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\bin\Debug\Optical store.exe
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\bin\Debug\Optical store.pdb
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical store.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical_store.Form1.resources
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical_store.Item.resources
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical_store.Login.resources
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical_store.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical_store.Signup.resources
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical store.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical store.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical store.exe
+C:\Users\Mahmoud\Desktop\New folder\Optical store\Optical store\obj\Debug\Optical store.pdb
+D:\projects\C#\Optical store\Optical store\bin\Debug\Optical store.exe.config
+D:\projects\C#\Optical store\Optical store\bin\Debug\Optical store.exe
+D:\projects\C#\Optical store\Optical store\bin\Debug\Optical store.pdb
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical store.csproj.AssemblyReference.cache
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Form1.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Item.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Login.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Properties.Resources.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Signup.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical store.csproj.GenerateResource.cache
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical store.csproj.CoreCompileInputs.cache
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical store.exe
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical store.pdb
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Have_Precision.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Welcome.resources
+D:\projects\C#\Optical store\Optical store\obj\Debug\Optical_store.Make_Makepericsion.resources
